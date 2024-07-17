@@ -1,5 +1,7 @@
 summary: Tests for the 'RpmSnapshot' library
 discover:
     how: fmf
+    test:
+        - /tests/snapshot
 execute:
     how: tmt
